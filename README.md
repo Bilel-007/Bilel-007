@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Bilel Bouneb</h1>
 <h3 align="center">I'm a fullstack web developer (MERN stack) and a devops engineer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=bilel-007&label=Profile%20views&color=0e75b6&style=flat" alt="bilel-007" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bilel-007" alt="bilel-007" /></a> </p>
-
 - 🌱 I’m currently learning **WordPress.**
 
 - 💬 Ask me about **React.js, Node.js, MongoDB and DevOps.**
