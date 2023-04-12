@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Bilel Bouneb</h1>
 <h3 align="center">I'm a fullstack web developer (MERN stack) and a devops engineer</h3>
 
-- 🌱 I’m currently learning **RxJS.**
+- 🌱 I’m currently learning **AWS Certified Cloud Practitioner Certification.**
 
 - 💬 Ask me about **React.js, Node.js, MongoDB and DevOps.**
 
