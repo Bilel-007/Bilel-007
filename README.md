@@ -1,9 +1,14 @@
 <h1 align="center">Hi 👋, I'm Bilel Bouneb</h1>
-<h3 align="center">I'm a fullstack web developer (MERN stack) and a devops engineer</h3>
+<h3 align="center">I'm a  System, Network and Cloud Administrator Cloud & DevOps Engineer</h3>
 
-- 🌱 I’m currently learning **AWS Certified Cloud Practitioner Certification.**
+- 🌟 I’m certified : 
+            **Microsoft Azure Fundamentals certification AZ-900**
+            **AWS Certified Cloud Practitioner Certification**
+            **Scrum Fundamentals Certified SFC–Scrumstudy.com**
+  
+- 🌱 I’m currently preparing **Certified Kubernetes Administrator (CKA)**
 
-- 💬 Ask me about **React.js, Node.js, MongoDB and DevOps.**
+- 💬 Ask me about **IT & Cloud and DevOps.**
 
 - 📫 How to reach me **Bilel.bouneb90@gmail.com**
 
