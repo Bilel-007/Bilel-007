@@ -2,9 +2,12 @@
 <h3 align="center">I'm a  System, Network and Cloud Administrator Cloud & DevOps Engineer</h3>
 
 - 🌟 I’m certified : 
-            **Microsoft Azure Fundamentals certification AZ-900**
-            **AWS Certified Cloud Practitioner Certification**
-            **Scrum Fundamentals Certified SFC–Scrumstudy.com**
+
+  **Microsoft Azure Fundamentals certification AZ-900**
+
+  **AWS Certified Cloud Practitioner Certification**
+  
+  **Scrum Fundamentals Certified SFC–Scrumstudy.com**
   
 - 🌱 I’m currently preparing **Certified Kubernetes Administrator (CKA)**
 
