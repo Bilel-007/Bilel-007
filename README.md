@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **Bilel.bouneb90@gmail.com**
 
-- 📄 Know about my experiences ? Here is my <a href='https://drive.google.com/file/d/1XTSfSXEWP8vdA8jqM4y9gGCC6ZXMLJtu/view?usp=sharing'>CV</a>.
+- 📄 Know about my experiences ? Here is my <a href='https://drive.google.com/file/d/1xEgLnkbSIzA9Wfw-eJXB5HCVe20_e4Ty/view?usp=sharing'>CV</a>.
 
 - ⚡ Fun fact : **I love gaming, camping and reading.**
 
