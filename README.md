@@ -3,6 +3,8 @@
 
 - 🌟 I’m certified : 
 
+  **Certified Kubernetes Administrator (CKA)**
+
   **Microsoft Azure Fundamentals certification AZ-900**
 
   **AWS Certified Cloud Practitioner Certification**
