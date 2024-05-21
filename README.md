@@ -11,7 +11,7 @@
   
   **Scrum Fundamentals Certified SFC–Scrumstudy.com**
   
-- 🌱 I’m currently preparing **Certified Kubernetes Administrator (CKA)**
+- 🌱 I’m currently preparing **AWS Solutions Architect Associate (SAA)**
 
 - 💬 Ask me about **IT & Cloud and DevOps.**
 
