@@ -1,7 +1,11 @@
 <h1 align="center">Hi 👋, I'm Bilel Bouneb</h1>
-<h3 align="center">I'm a  System, Network and Cloud Administrator Cloud & DevOps Engineer</h3>
+<h3 align="center">I'm a  SysOps, DevOps & Cloud Engineer</h3>
 
 - 🌟 I’m certified : 
+
+  **AWS Solutions Architect Associate (SAA)**
+
+  **HashiCorp Certified: Terraform Associate (003)**
 
   **Certified Kubernetes Administrator (CKA)**
 
@@ -11,7 +15,7 @@
   
   **Scrum Fundamentals Certified SFC–Scrumstudy.com**
   
-- 🌱 I’m currently preparing **AWS Solutions Architect Associate (SAA)**
+- 🌱 I’m currently preparing **Certified Kubernetes Application Developer (CKAD)**
 
 - 💬 Ask me about **IT & Cloud and DevOps.**
 
